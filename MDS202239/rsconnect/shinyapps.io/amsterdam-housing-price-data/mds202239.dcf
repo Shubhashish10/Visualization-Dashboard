@@ -1,0 +1,11 @@
+name: mds202239
+title:
+username:
+account: amsterdam-housing-price-data
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7860180
+bundleId: 6617596
+url: https://amsterdam-housing-price-data.shinyapps.io/mds202239/
+when: 1670620774.85707
+lastSyncTime: 1670620774.85708
